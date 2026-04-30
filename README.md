@@ -13,6 +13,8 @@
 | 7 | Критерии завершённости (DoD) | [definition-of-done.md](./definition-of-done.md) |
 
 Задание 2
+| № | Раздел | Файл |
+|:---|:---|:---|
 | 1 | BPMN-схема (.png) | [booking-process.png](./booking-process.png) |
 | 2 | BPMN-схема (.svg) | [booking-process.svg](./booking-process.svg) |
 ## Конкурентный анализ
