@@ -12,6 +12,9 @@
 | 6 | Критерии готовности (DoR) | [definition-of-ready.md](./definition-of-ready.md) |
 | 7 | Критерии завершённости (DoD) | [definition-of-done.md](./definition-of-done.md) |
 
+Задание 2
+| 1 | BPMN-схема (.png) | [booking-process.png](./booking-process.png) |
+| 2 | BPMN-схема (.svg) | [booking-process.svg](./booking-process.svg) |
 ## Конкурентный анализ
 
 При разработке требований учтён функционал следующих систем-конкурентов:
